@@ -1,2 +1,2 @@
 # cugbgo_new
-cugbgo-news爬虫
+##cugbgo 新闻展示爬虫项目
